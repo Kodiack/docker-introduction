@@ -1,6 +1,6 @@
 # Catalyst <!-- .element: class="catalyst-logo" -->
 ### Introduction to Docker
-Presented by <!-- .element: class="small-text" --> [Travis Holton](Link) <!-- .element: class="small-text" -->
+Presented by <!-- .element: class="small-text" --> [Colton Vermilyea](Link) <!-- .element: class="small-text" -->
 
 
 
