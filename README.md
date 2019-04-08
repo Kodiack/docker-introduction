@@ -16,7 +16,7 @@ from Docker Hub.
 
 ```
 docker run -d --rm --name docker-intro -p 8000:8000 \
-    heytrav/docker-introduction-slides
+    coltonv/docker-introduction-slides
 ```
 
 

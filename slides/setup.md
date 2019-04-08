@@ -82,9 +82,9 @@ ansible-playbook -i ansible/hosts -K ansible/docker-install.yml
 
 ### Fetch and run slides
 ```
-docker pull heytrav/docker-introduction-slides:latest
+docker pull coltonv/docker-introduction-slides:latest
 docker run --name docker-intro -d --rm \
-        -p 8000:8000 heytrav/docker-introduction-slides
+        -p 8000:8000 coltonv/docker-introduction-slides
 ```
 <asciinema-player autoplay="1" loop="loop"  font-size="medium" speed="1" theme="solarized-light" src="asciinema/asciicast-119477.json" cols="150" rows="15"></asciinema-player>
 * Follow along with the <!-- .element: class="fragment" data-fragment-index="0" -->[course slides](http://localhost:8000)

@@ -39,7 +39,7 @@
    - <!-- .element: class="fragment" data-fragment-index="3" -->[Local Registry](https://docs.docker.com/registry/deploying)
 * For example <!-- .element: class="fragment" data-fragment-index="4" -->:
    - [Repo for these slides](https://github.com/catalyst-training/docker-introductin)
-   - [Docker registry](https://hub.docker.com/r/heytrav/docker-introduction-slides/builds/)
+   - [Docker registry](https://hub.docker.com/r/coltonv/docker-introduction-slides/builds/)
 
 
 #### Deploying containers
