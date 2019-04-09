@@ -72,7 +72,7 @@
     ],
     [
       0.046239,
-      "CONTAINER ID        IMAGE                                COMMAND                  CREATED             STATUS              PORTS                                           NAMES\r\nd04e5d4049a4        dockersamples/static-site            \"/bin/sh -c 'cd /u...\"   13 seconds ago      Up 11 seconds       0.0.0.0:32777->80/tcp, 0.0.0.0:32776->443/tcp   static-site\r\nc5ddb8ebc26e        heytrav/docker-introduction-slides   \"/usr/local/bin/du...\"   5 hours ago         Up 5 hours          0.0.0.0:8000->8000/tcp                          epic_jennings\r\n"
+      "CONTAINER ID        IMAGE                                COMMAND                  CREATED             STATUS              PORTS                                           NAMES\r\nd04e5d4049a4        dockersamples/static-site            \"/bin/sh -c 'cd /u...\"   13 seconds ago      Up 11 seconds       0.0.0.0:32777->80/tcp, 0.0.0.0:32776->443/tcp   static-site\r\nc5ddb8ebc26e        coltonv/docker-introduction-slides   \"/usr/local/bin/du...\"   5 hours ago         Up 5 hours          0.0.0.0:8000->8000/tcp                          epic_jennings\r\n"
     ],
     [
       0.004165,
@@ -376,7 +376,7 @@
     ],
     [
       0.032071,
-      "CONTAINER ID        IMAGE                                COMMAND                  CREATED             STATUS              PORTS                    NAMES\r\nc5ddb8ebc26e        heytrav/docker-introduction-slides   \"/usr/local/bin/du...\"   5 hours ago         Up 5 hours          0.0.0.0:8000->8000/tcp   epic_jennings\r\n"
+      "CONTAINER ID        IMAGE                                COMMAND                  CREATED             STATUS              PORTS                    NAMES\r\nc5ddb8ebc26e        coltonv/docker-introduction-slides   \"/usr/local/bin/du...\"   5 hours ago         Up 5 hours          0.0.0.0:8000->8000/tcp   epic_jennings\r\n"
     ],
     [
       0.00354,

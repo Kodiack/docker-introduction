@@ -164,7 +164,7 @@ docker run -it alpine /bin/sh
    $ docker ps
    CONTAINER ID  IMAGE                                 NAMES
    b3169acf49f8  alpine                                <mark  class="fragment" data-fragment-index="1">adoring_edison</mark>
-   02aa3e50580c  heytrav/docker-introduction-slides    docker-intro
+   02aa3e50580c  coltonv/docker-introduction-slides    docker-intro
    </code></pre>
 * <!-- .element: class="fragment" data-fragment-index="1" -->Note the name assigned to the alpine container.
 * <!-- .element: class="fragment" data-fragment-index="2" -->By default docker assigns containers [random names](https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go)
@@ -192,7 +192,7 @@ docker run -it <mark>--name myalpine</mark> alpine /bin/sh
 docker ps
 CONTAINER ID        IMAGE                                NAMES
 db1faf244e7a        alpine                               <mark>myalpine</mark>
-02aa3e50580c        heytrav/docker-introduction-slides   docker-intro
+02aa3e50580c        coltonv/docker-introduction-slides   docker-intro
 </code></pre>
 
 * Exit the shell <!-- .element: class="fragment" data-fragment-index="2" -->

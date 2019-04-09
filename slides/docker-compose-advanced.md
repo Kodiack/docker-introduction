@@ -55,7 +55,7 @@ services:
         services:
           vote:
             build: ./vote
-            <mark>image: heytrav/vote:v2</mark>
+            <mark>image: coltonv/vote:v2</mark>
             command: python app.py
             volumes:
             <mark>- vote_app:/app</mark>

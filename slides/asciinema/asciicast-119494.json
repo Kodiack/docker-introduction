@@ -96,7 +96,7 @@
     ],
     [
       0.063285,
-      "REPOSITORY                           TAG                 IMAGE ID            CREATED             SIZE\r\nheytrav/docker-introduction-slides   latest              1cedfbdf2482        4 days ago          840 MB\r\nalpine                               latest              4a415e366388        2 months ago        3.99 MB\r\nhello-world                          latest              48b5124b2768        3 months ago        1.84 kB\r\n"
+      "REPOSITORY                           TAG                 IMAGE ID            CREATED             SIZE\r\ncoltonv/docker-introduction-slides   latest              1cedfbdf2482        4 days ago          840 MB\r\nalpine                               latest              4a415e366388        2 months ago        3.99 MB\r\nhello-world                          latest              48b5124b2768        3 months ago        1.84 kB\r\n"
     ],
     [
       0.005237,

@@ -147,7 +147,7 @@
     ],
     [
       0.000453,
-      "            NAMES\r\nb3169acf49f8        alpine                               \"/bin/sh\"                41 seconds ago      Up 40 seconds                                adoring_edison\r\n02aa3e50580c        heytrav/docker-introduction-slides   \"/usr/local/bin/du...\"   38 minutes ago      Up 38 minutes       0.0.0.0:8000->8000/tcp   docker-intro\r\n"
+      "            NAMES\r\nb3169acf49f8        alpine                               \"/bin/sh\"                41 seconds ago      Up 40 seconds                                adoring_edison\r\n02aa3e50580c        coltonv/docker-introduction-slides   \"/usr/local/bin/du...\"   38 minutes ago      Up 38 minutes       0.0.0.0:8000->8000/tcp   docker-intro\r\n"
     ],
     [
       0.002566,
