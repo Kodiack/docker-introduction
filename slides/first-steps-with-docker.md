@@ -4,7 +4,7 @@
 ### Docker Version
 ```
 docker --version
-Docker version 18.03.1-ce, build 9ee9f40
+Docker version 18.09.2, build 6247962
 ```
 
 * Version numbering scheme similar to Ubuntu versioning: `YY.MM.#`
@@ -19,12 +19,12 @@ Docker version 18.03.1-ce, build 9ee9f40
 ```
 $ docker<ENTER>
 
-Usage:  docker COMMAND
+Usage:	docker [OPTIONS] COMMAND
 
 A self-sufficient runtime for containers
 
 Options:
---config string      Location of client config files (default "/Users/travis/.docker")
+--config string      Location of client config files (default "/home/$USER/.docker")
 -D, --debug              Enable debug mode
 --help               Print usage
 ```

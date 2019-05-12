@@ -54,7 +54,6 @@ services:
           vote_app:</mark>
         services:
           vote:
-            build: ./vote
             <mark>image: coltonv/vote:v2</mark>
             command: python app.py
             volumes:
@@ -67,6 +66,7 @@ services:
    </code></pre>
 * Restart the vote application <!-- .element: class="fragment" data-fragment-index="2" -->
    ```
+   docker-compose pull
    docker-compose down -v 
    docker-compose up -d
    ```
