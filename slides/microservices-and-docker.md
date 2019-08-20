@@ -34,7 +34,7 @@
    <!-- .element: style="font-size:13pt;"  -->
 * Contents of <!-- .element: class="fragment" data-fragment-index="1" -->`Dockerfile`
    ```
-  FROM python:3.4-alpine
+  FROM python:3.7-alpine
   WORKDIR /code
   COPY requirements.txt /code
   RUN pip install -r requirements.txt

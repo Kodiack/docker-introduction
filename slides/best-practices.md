@@ -257,6 +257,6 @@ CMD ["python3", "app.py"]
    * Keep image footprint small 
       * Sometimes at expense readability
    * Maintain clean control over containers
-      * Easy to top and start
+      * Easy to stop and start
       * Flexible in the way they are executed
 * Official Dockerfile [best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
